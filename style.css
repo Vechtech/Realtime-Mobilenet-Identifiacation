@@ -1,0 +1,25 @@
+.head_1{
+  width: 100%;
+  font-size: 40px;
+  margin-top: 0;
+  border-radius: 15px;
+}
+.head_2{
+  width: 60%;
+  font-size: 25px;
+  border-radius: 15px;
+}
+.head_3{
+  background-color: cyan;
+  color: navy;
+  border-radius: 10px;
+}
+.copy_right_footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: crimson;
+  color: lime;
+  font-size: 15px;
+  padding: 10px;
+}
